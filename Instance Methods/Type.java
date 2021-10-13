@@ -1,0 +1,2 @@
+enum Type{
+GEAR,FOLDING,ROAD,MOUNTAIN}

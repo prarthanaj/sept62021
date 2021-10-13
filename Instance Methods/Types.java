@@ -1,0 +1,2 @@
+enum Types{
+SMART,DIVING,QUARTZ,}
